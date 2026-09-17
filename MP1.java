@@ -6,7 +6,7 @@ public class MP1{
     public static void main(String[] args) {
         // Create new Calculator object
         Calculator mycalc = new Calculator();
-        mycalc.setname("Group 10");
+        mycalc.setname("Group 36");
         // Loop over unless 'Q' is input
         while(true){
             Scanner scanner = new Scanner(System.in);
